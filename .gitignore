@@ -1,0 +1,8 @@
+datasets/Spotify_Dataset_V3.csv
+datasets/spotify_data.csv
+.ipynb_checkpoints
+Happy_Upbeat_playlist.csv
+Sad_Calm_playlist.csv
+cluster_centers.csv
+music_data_with_clusters.csv
+spotify_data_analysis.ipynb
